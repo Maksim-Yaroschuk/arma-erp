@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkarma_erp_git=self.webpackChunkarma_erp_git||[]).push([[415],{5415:function(e,n,r){r.r(n),r.d(n,{default:function(){return c}});var t=r(8346),i=r(4270),a=r(3329);function c(){return(0,a.jsxs)("main",{children:[(0,a.jsx)(i.q,{children:(0,a.jsx)("title",{children:"Phonebook"})}),(0,a.jsx)(t.v0,{children:"Contacts home page"})]})}}}]);
+//# sourceMappingURL=415.05847aac.chunk.js.map
