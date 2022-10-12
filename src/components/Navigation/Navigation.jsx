@@ -9,6 +9,11 @@ export const Navigation = () => {
       <NavigationLink to="/" end>
         Home
       </NavigationLink>
+      <NavigationLink to="/reference-books">Довідники</NavigationLink>
+      <NavigationLink to="/sales">Продажі</NavigationLink>
+      <NavigationLink to="/purchases">Закупки</NavigationLink>
+      <NavigationLink to="/reports">Звіти</NavigationLink>
+      <NavigationLink to="/service">Сервіс</NavigationLink>
       {isLogIn && (
         <NavigationLink to="/contacts">
           Contacts
