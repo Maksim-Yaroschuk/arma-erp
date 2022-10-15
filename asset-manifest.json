@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arma-erp/static/css/main.c3d5249d.css",
-    "main.js": "/arma-erp/static/js/main.427b1f1f.js",
+    "main.js": "/arma-erp/static/js/main.f34e7467.js",
     "static/js/415.05847aac.chunk.js": "/arma-erp/static/js/415.05847aac.chunk.js",
     "static/js/111.d58c92ab.chunk.js": "/arma-erp/static/js/111.d58c92ab.chunk.js",
     "static/js/889.0ae686bc.chunk.js": "/arma-erp/static/js/889.0ae686bc.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/270.eb6f5141.chunk.js": "/arma-erp/static/js/270.eb6f5141.chunk.js",
     "index.html": "/arma-erp/index.html",
     "main.c3d5249d.css.map": "/arma-erp/static/css/main.c3d5249d.css.map",
-    "main.427b1f1f.js.map": "/arma-erp/static/js/main.427b1f1f.js.map",
+    "main.f34e7467.js.map": "/arma-erp/static/js/main.f34e7467.js.map",
     "415.05847aac.chunk.js.map": "/arma-erp/static/js/415.05847aac.chunk.js.map",
     "111.d58c92ab.chunk.js.map": "/arma-erp/static/js/111.d58c92ab.chunk.js.map",
     "889.0ae686bc.chunk.js.map": "/arma-erp/static/js/889.0ae686bc.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
-    "static/js/main.427b1f1f.js"
+    "static/js/main.f34e7467.js"
   ]
 }
