@@ -34,6 +34,7 @@ export const store = configureStore({
     auth: persistReducer(authPersistConfig, authReducer),
     items: itemsReducer,
     searchValue: searchReducer,
+    sales: null,
   },
   middleware,
   devTools: process.env.NODE_ENV === 'development',
