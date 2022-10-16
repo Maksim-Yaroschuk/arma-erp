@@ -7,15 +7,13 @@ export const Logistics = () => {
   const [data, setData] = useState([]);
   const handleFiles = e => {
     const file = e.target.files[0];
-    // console.log(file);
     readXlsxFile(file).then(rows => {
-      // console.log(rows);
       setHead(rows[0]);
       setData(rows.slice(1));
     });
   };
 
-  console.log(data);
+  const parsed = JSON
 
   return (
     <div>
@@ -28,7 +26,7 @@ export const Logistics = () => {
         </Label>
       </Form>
 
-      {head.length && (
+      {Boolean(head.length) && (
         <table border="2" bordercolor="black">
           <caption>Продажі</caption>
           <thead>
